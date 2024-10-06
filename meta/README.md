@@ -18,3 +18,13 @@ Pour convertir une slide markdown en HTML:
 ```sh
 pandoc -t reavealjs -s test_slide_pandoc.md -o test_slide_pandoc.html
 ```
+
+## outils
+
+### environnement primaire
+
+J'utilise VisualStudioCode, mais tout éditeur générique de markdown peut faire l'affaire. L'intérêt de VSC dans ce contexte est essentiellement l'intégration avec git, ce qui est bien pratique.
+
+### outils annexes
+
+J'utilise Antidote de Druide pour l'orthographe, un produit intelligent et efficace (mais payant).
